@@ -3,6 +3,6 @@
   "Values": {
     "AzureWebJobsStorage": "",
     "FUNCTIONS_WORKER_RUNTIME": "python",
-    "MyStorageConnectionString" : "DefaultEndpointsProtocol=https;AccountName=pythonstorage11;AccountKey=CYAA/ZfmFFprKBres+UVslZ/vL8g53wcISRjT4l0DkRo5y1wovIhgNQOUwh/ldG8c4sr11LXqAtVCxyQcYWJIQ==;EndpointSuffix=core.windows.net"
+    "MyStorageConnectionString" : "DefaultEndpointsProtocol=https;AccountName="";AccountKey="";EndpointSuffix=core.windows.net"
   }
 }
