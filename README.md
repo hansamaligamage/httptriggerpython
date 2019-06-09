@@ -92,3 +92,5 @@ You have to add the connectionstring to the queue storage as below,
 ```
 
 If you want to know more, go through this post [Azure Functions for Python Developers](http://hansamaligamage.blogspot.com/2019/06/azure-functions-for-python-developers.html) 
+You can refer to this video series to get some more insight, [Create a python function & deploy to azure cloud](https://www.youtube.com/playlist?list=PLyWuuK4Uj-wL36kHmqM5vIuvAJG85TPXr)
+
